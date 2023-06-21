@@ -6,7 +6,7 @@ public class Solution {
        
         String small= s.substring(0, k);
     String large = s.substring(0, k);
-    String temp= "";
+    String temp= " ";
     for(int j=0;j<=s.length()-k;j++) {
 
         temp = s.substring(j,j+k);
