@@ -8,6 +8,7 @@
 // Apply step 1 recursively on each of the two substrings x and y.
 // Given two strings s1 and s2 of the same length, return true if s2 is a scrambled string of s1, otherwise, return false.
 
+
 class Solution {
     Map<String, Boolean> map = new HashMap<>();
 
