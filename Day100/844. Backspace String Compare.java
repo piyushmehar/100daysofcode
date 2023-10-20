@@ -9,8 +9,7 @@ class Solution {
                 res.deleteCharAt(res.length()-1);
             }else{
                 res.append(c);
-            }
-        }
+            }}
         return res.toString();
     }
 }
