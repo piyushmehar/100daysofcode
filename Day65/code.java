@@ -5,7 +5,6 @@
 // Insert a character
 // Delete a character
 // Replace a character
-
 class Solution {
   public int minDistance(String word1, String word2) {
     final int m = word1.length();
